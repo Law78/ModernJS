@@ -1,0 +1,16 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "rules": {
+        "semi": 2,
+        "no-mixed-spaces-and-tabs": "warn",
+        "no-var":"warn",
+        "prefer-const": "warn",
+        "init-declarations": "warn",
+        "no-use-before-define": "warn",
+        "one-var": "warn",
+        "default-case": "warn"
+    }
+}
